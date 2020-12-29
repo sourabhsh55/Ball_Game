@@ -98,6 +98,10 @@ while running:
     screen.fill(BLACK)
     all_sprites.draw(screen)
     py.display.flip()
+    
+    
+    
+    
 py.quit()
 quit()
             
